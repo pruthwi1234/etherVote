@@ -2,7 +2,7 @@
 This is a project to design a voting system based on ethereum blockchain.
 # Requirments
 - install npm(node package manager)
-# Voting system based on Ethereum Blockchain
+# Working
 follow the following steps
 - npm install
 - npm start
