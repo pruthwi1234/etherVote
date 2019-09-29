@@ -7,4 +7,4 @@ follow the following steps
 - npm install
 - npm start
 - open localhost:5000
-- Happy coding
+- Happy voting  :)
